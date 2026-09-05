@@ -1,0 +1,4 @@
+This build uses placeholder artifacts.
+Real ZK proofs require circom compilation.
+Install circom (https://docs.circom.io/getting-started/installation/) and run:
+  pnpm --filter zk-prover-cli build:circuit
